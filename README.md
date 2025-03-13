@@ -3,7 +3,7 @@
 A decentralized tip bot for Discord, powered by **AO Compute** and **Arweave**, enabling seamless **SEND token transactions** between users.
 
 ## Features
-- **AO-Integrated Wallets** – Users receive **decentralized AO wallets** for transactions.
+- **AO-USER Process** – Users get ** AO process created for them with a wallet** for transactions.
 - **On-Chain Transfers** – Handles **SEND token deposits, withdrawals, and internal transfers**.
 - **Automated Streak Tracking** – Keeps a history of transactions and engagement.
 - **Security** – Uses **nonce-based transactions** to prevent replay attacks.
